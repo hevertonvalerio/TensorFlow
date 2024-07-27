@@ -1,7 +1,5 @@
-[img/1692018415350.png](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg)
-
-<img src="/img/1692018415350.png" width="40">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="400" height="400"/>
+<img src="/img/1692018415350.png" width="400">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 
 
 # TensorFlow - Redes Neurais - BoneAge
