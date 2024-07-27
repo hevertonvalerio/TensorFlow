@@ -7,7 +7,7 @@ Estudos sobre a biblioteca TensorFlow, desenvolvendo os conceitos de Classifica√
 
 <div>
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="√çcone" style="vertical-align: middle; width: 50px; height: 50px;">
-    <p> <strong>TensorFlow - Redes Neurais - BoneAge</strong></p>
+    <span><p> <strong>TensorFlow - Redes Neurais - BoneAge</strong></p></span>
 </div>
 
 
