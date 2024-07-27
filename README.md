@@ -7,10 +7,5 @@ Estudos sobre a biblioteca TensorFlow, desenvolvendo os conceitos de Classifica√
 
 <div>
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="√çcone" style="vertical-align: middle; width: 50px; height: 50px;">
-    <span> <strong>TensorFlow - Redes Neurais - BoneAge</strong></span>
+    <span style="font-size: 24px;"><strong>TensorFlow - Redes Neurais - BoneAge</strong></span>
 </div>
-
-
-<p align="left">
-I'm a <strong>Computer Vision Engineer</strong> with a background in Aeronautical Sciences from the Air Force Academy and a <strong>Master's in Aerospace Engineering</strong> from the Aeronautical Technological Institute (ITA). In 2019, I founded Sigmoidal, a firm specializing in CV&ML consulting and immersive training programs. To date, I've educated over 6,000 technology enthusiasts.
-</p>
